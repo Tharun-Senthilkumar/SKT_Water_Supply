@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_orders"
+            android:icon="@drawable/orders"
+            android:title="Orders"/>
+
+        <item android:id="@+id/nav_customers"
+            android:icon="@drawable/customers"
+            android:title="Customers"/>
+
+        <item android:id="@+id/nav_riders"
+            android:icon="@drawable/baseline_directions_bike_24"
+            android:title="Riders"/>
+
+        <item android:id="@+id/nav_brands"
+            android:icon="@drawable/brands"
+            android:title="Brands"/>
+
+        <item android:id="@+id/nav_sales"
+            android:icon="@drawable/sales"
+            android:title="Sales"/>
+
+        <item android:id="@+id/nav_deals"
+            android:icon="@drawable/deals_1"
+            android:title="Deals"/>
+
+    </group>
+
+</menu>
